@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-07T08:09:37.231Z</updated>
+  <updated>2019-12-07T08:11:51.239Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/12/07/my-first-blog/"/>
     <id>http://yoursite.com/2019/12/07/my-first-blog/</id>
     <published>2019-12-07T07:12:15.000Z</published>
-    <updated>2019-12-07T08:09:37.231Z</updated>
+    <updated>2019-12-07T08:11:51.239Z</updated>
     
     <content type="html"><![CDATA[<h5 id="社交信息收集"><a href="#社交信息收集" class="headerlink" title="社交信息收集"></a>社交信息收集</h5><ul><li>查看注册的网站<ul><li>0xreg</li><li>reg007</li></ul></li><li>去账号以注册过的网站找回密码<ul><li>找回密码，判断账号是否存在</li><li>输入账户和密码，如果提示密码错误，说明用户名存在</li><li>直接使用该账户注册，若存在则提示已注册</li></ul></li><li>知道qq<ul><li>通过扣扣邮箱搜索支付宝、淘宝账户</li><li>去腾讯微博搜索</li><li>查看qq空间</li></ul></li></ul><a id="more"></a><ul><li>知道手机号<ul><li>在常见网站通过2来判断是否在该平台注册过账户</li><li>通过在支付宝输入常见姓氏获取名字</li></ul></li><li>通过职业找该领域常用社交网站反查</li><li>根据在qq空间、朋友圈等动态用百度识图识别图片，在常见社交平台搜索关键字</li><li>注意社交动态<ul><li>发布时间线</li><li>使用的客户端（苹果、安卓、普通浏览器）</li><li>注意每条链接/图片/视频</li><li>从最早发布的动态向后查</li></ul></li><li>一般人不同账户的用户名都是相同或者相近的</li><li>一般人社交头像都是相同的</li><li>一般人所有账号密码通用</li><li>大部分信息可以用来生成密码字典，尝试破解社保、公积金账户等</li></ul><h5 id="密码生成"><a href="#密码生成" class="headerlink" title="密码生成"></a>密码生成</h5><ol><li>生日密码</li><li>通过用户身边朋友或者家人的姓名或者出生日期进行猜解</li><li>系统默认密码</li><li>常见弱口令</li></ol><h5 id="钓鱼"><a href="#钓鱼" class="headerlink" title="钓鱼"></a>钓鱼</h5><ol><li>使用虚假邮件</li><li>使用虚假网络</li><li>使用IM程序</li><li>种马</li></ol><hr>]]></content>
     
